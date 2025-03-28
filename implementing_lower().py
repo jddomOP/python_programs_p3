@@ -1,10 +1,12 @@
+
 def implement_lower(s):
-    result = ''
+    result = ""
     for char in s:
         if 'A' <= char <= 'Z':
-            result += chr(ord(char) +  32)
+            result += chr(ord(char) + 32)
         else:
             result += char
-        return result
+    return result
 
 print(implement_lower("Hello WORLD!"))
+
