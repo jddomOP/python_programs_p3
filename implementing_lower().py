@@ -7,3 +7,4 @@ def implement_lower(s):
             result += char
         return result
 
+print(implement_lower("Hello WORLD!"))
