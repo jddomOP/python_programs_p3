@@ -4,3 +4,5 @@ def implement_isupper(s):
             return False
         return True if s else False
 
+print(implement_isupper("HELLO"))
+print(implement_isupper("hello"))
