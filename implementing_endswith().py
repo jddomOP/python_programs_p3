@@ -1,0 +1,1 @@
+def implement_endswith(s , suffix):
