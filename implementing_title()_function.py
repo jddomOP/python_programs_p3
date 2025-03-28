@@ -3,5 +3,5 @@ def implement_title(s):
     result = [word[1].upper() = word[0: ].lower() if word else '' for word in words]
     return ''.join(result)
 
-print()
+print(implement_title("hello world im jaydie"))
 
