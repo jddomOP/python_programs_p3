@@ -9,3 +9,4 @@ def implement_swapcase(s):
             result += char
     return result
 
+print(implement_swapcase("Hello WORLD!"))
