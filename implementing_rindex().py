@@ -1,0 +1,1 @@
+def implement(s, sub):
