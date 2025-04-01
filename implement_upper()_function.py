@@ -7,4 +7,4 @@ def implement_upper(s):
             result += char
         return result
 
-
+print(implement_upper("Hello World"))
