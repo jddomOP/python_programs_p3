@@ -5,6 +5,6 @@ def implement_upper(s):
             result += chr(ord(char) - 32)
         else:
             result += char
-        return result
+    return result
 
 print(implement_upper("Hello World"))
