@@ -5,3 +5,4 @@ def implement_index(s, sub):
     raise ValueError ("substring not found")
 
 #sample
+print(implement_index("banana", 'ana'))
