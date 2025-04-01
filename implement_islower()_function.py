@@ -5,5 +5,5 @@ def implement_islower(s):
         return False
 
     #Test
-    print(implement_islower("HELLO"))
-    print(implement_islower("hello"))
+print(implement_islower("HELLO"))
+print(implement_islower("hello"))
